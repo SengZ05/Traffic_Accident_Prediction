@@ -1,0 +1,7 @@
+Accuracy
+The final models achieved the following approximate accuracies on the test set (after SMOTE and tuning):
+
+Model	Accuracy (60%)
+Random Forest	~0.6419%
+Logistic Regression	~0.481%
+SVM	~0.512%
