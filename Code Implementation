@@ -1,0 +1,15 @@
+The dataset was downloaded using Kagglehub.
+
+Data cleaning included handling missing values, duplicates, and outliers.
+
+Categorical features were normalized.
+
+Data was split, scaled, and balanced before model training.
+
+Models were trained, evaluated, and visualized (confusion matrices, ROC curves).
+
+Prediction function created for easy future use.
+
+The cleaned dataset and model outputs (confusion matrix images, ROC curves) are saved for submission.
+
+Code is well-commented and organized for reproducibility.
