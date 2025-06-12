@@ -1,0 +1,10 @@
+ML Model Selection
+For this traffic accident prediction project, three machine learning models were selected to evaluate and compare their effectiveness:
+
+Random Forest Classifier: A robust ensemble model that handles non-linear data and interaction between features well. It is resistant to overfitting and works well with imbalanced datasets when combined with class weighting.
+
+Logistic Regression: A baseline linear model that provides probabilistic outputs and interpretability of feature impacts.
+
+Support Vector Machine (SVM): Known for its strong performance on classification tasks, especially with non-linear kernels such as RBF.
+
+These models provide a mix of simplicity, interpretability, and power to capture complex patterns in the dataset.
