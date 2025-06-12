@@ -1,0 +1,7 @@
+**Random Forest was chosen for its ability to handle a large number of features and capture complex, non-linear relationships within the data. It also provides feature importance, aiding interpretation.
+
+**Logistic Regression serves as a simple, interpretable baseline that helps evaluate if a linear decision boundary can separate accident severity classes.
+
+**SVM with the RBF kernel is used for its strength in handling non-linear boundaries and maximizing the margin between classes, which can improve classification performance in complex feature spaces.
+
+These models were chosen to balance interpretability, performance, and computational cost.
