@@ -77,19 +77,19 @@ This project can be run using **Google Colab** without any local setup.
 
 ### Random Forest  
 - Confusion Matrix  
-  ![Random Forest Confusion Matrix](https://github.com/SengZ05/Traffic_Accident_Prediction/blob/main/Random%20Forest_confusion_matrix.png?raw=true)  
+  ![Random Forest Confusion Matrix](https://github.com/SengZ05/Traffic_Accident_Prediction/blob/main/images/Random%20Forest_confusion_matrix.png?raw=true)  
 - ROC Curve  
-  ![Random Forest ROC Curve](https://github.com/SengZ05/Traffic_Accident_Prediction/blob/main/Random%20Forest_roc_curve.png?raw=true)  
+  ![Random Forest ROC Curve](https://github.com/SengZ05/Traffic_Accident_Prediction/blob/main/images/Random%20Forest_roc_curve.png?raw=true)  
 
 ### Logistic Regression  
 - Confusion Matrix  
-  ![Logistic Regression Confusion Matrix](https://github.com/SengZ05/Traffic_Accident_Prediction/blob/main/Logistic%20Regression_confusion_matrix.png?raw=true)  
+  ![Logistic Regression Confusion Matrix](https://github.com/SengZ05/Traffic_Accident_Prediction/blob/main/images/Logistic%20Regression_confusion_matrix.png?raw=true)  
 - ROC Curve  
-  ![Logistic Regression ROC Curve](https://github.com/SengZ05/Traffic_Accident_Prediction/blob/main/Logistic%20Regression_roc_curve.png?raw=true)  
+  ![Logistic Regression ROC Curve](https://github.com/SengZ05/Traffic_Accident_Prediction/blob/main/images/Logistic%20Regression_roc_curve.png?raw=true)  
 
 ### Support Vector Machine (SVM)  
 - Confusion Matrix  
-  ![SVM Confusion Matrix](https://github.com/SengZ05/Traffic_Accident_Prediction/blob/main/SVM_confusion_matrix.png?raw=true)  
+  ![SVM Confusion Matrix](https://github.com/SengZ05/Traffic_Accident_Prediction/blob/main/images/SVM_confusion_matrix.png?raw=true)  
 
 ---
 
