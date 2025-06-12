@@ -66,15 +66,19 @@ This project leverages machine learning to analyze patterns in road traffic acci
 
 This project can be run using **Google Colab** without any local setup.
 
-### Option 1: Upload Files Manually
-1. Open [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1vSJUgNwP_f09gk_73ZvHvG-klmUJooqL?usp=sharing)).
-2. You can mannually download the "Traffic_Prediction.pynb" to run on your local machine.
+1. [Open](https://colab.research.google.com/drive/1vSJUgNwP_f09gk_73ZvHvG-klmUJooqL?usp=sharing) Google Colab to run the notebook online.  
+2. You can manually download the "Traffic_Prediction.ipynb" to run on your local machine.
 
-## 📷 Visual Outputs (To Be Added)
+## 📷 Visual Outputs 
 
-- 📈 *(Performance Comparison Graph)*
-- 📉 *(Confusion Matrix for Models)*
-- 🗺️ *(Heatmap or Geographic Accident Visualization)*
+### 📈 Performance Comparison Graph  
+![Performance Comparison Graph](path/to/performance_graph.png)
+
+### 📉 Confusion Matrix for Models  
+![Confusion Matrix](path/to/confusion_matrix.png)
+
+### 🗺️ Heatmap or Geographic Accident Visualization  
+![Accident Heatmap](path/to/accident_heatmap.png)
 
 ---
 
