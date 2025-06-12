@@ -9,40 +9,37 @@
 
 ## 🌍 Societal Impact
 
-Road traffic accidents are a critical issue across the globe, resulting in thousands of injuries and fatalities every day. Despite the urgency of the problem, there's a lack of accessible, data-driven analysis available to understand and prevent these accidents.
+Road traffic accidents are a critical global issue, causing thousands of injuries and fatalities daily. Despite the urgency, accessible, data-driven insights into factors contributing to accidents remain limited.
 
-This project leverages machine learning to analyze patterns in road traffic accidents. The insights gained aim to assist **citizens, researchers, and policymakers** in reducing accident occurrences and enhancing road safety through intelligent, data-informed decisions.
+This project applies machine learning to analyze key traffic and driver features such as traffic density, speed limits, number of vehicles, driver age, and experience. The goal is to provide actionable insights for **citizens, researchers, and policymakers** to reduce accident risks and improve road safety.
 
 ---
 
 ## ❓ Problem Statement
 
-- Traffic accidents remain one of the leading causes of preventable deaths.
-- There is insufficient public access to clean, visual, and predictive accident data.
-- This project seeks to fill that gap using real-world datasets and ML.
+- Traffic accidents continue to be a leading cause of preventable deaths worldwide.
+- There is a lack of clear analysis linking specific traffic conditions and driver characteristics to accident occurrences.
+- This project aims to address this gap using a real-world dataset with relevant traffic and driver features.
 
 ---
 
 ## 🔍 Research Questions
 
-- **What** are the most common causes of road traffic accidents?
-- **What** levels of traffic density, speed limits, number of vehicles, or driver characteristics (age and experience) are most associated with traffic accidents?
-- **Why** do certain traffic conditions or driver profiles lead to higher accident occurrences?
-- **Why** are certain driver age groups or experience levels more prone to accidents?
-- **How** can we clean and optimize raw accident data for high-quality analysis?
-- **How** can machine learning be used to predict the likelihood of accidents based on traffic and driver-related features?
+- **What** traffic and driver factors (traffic density, speed limits, number of vehicles, driver age, and experience) most strongly correlate with accidents?  
+- **Why** do certain traffic conditions or driver profiles increase accident likelihood?  
+- **Why** are specific driver age groups or experience levels more prone to causing accidents?  
+- **How** can we clean and preprocess raw traffic data to improve analysis quality?  
+- **How** can machine learning be applied to predict the likelihood of accidents based on these traffic and driver-related features?
 
 ---
 
 ## 🧠 Key Contributions
 
-- 🧹 **Data Cleaning & Preprocessing**: Raw data transformation into usable form  
-- 📊 **Visualization**: Use of interactive graphs and charts for pattern discovery  
-  ➤ *(Insert Visualization Chart here)*  
-- 🔮 **Predictive Modeling**: ML-based predictions of accident-prone areas  
-  ➤ *(Insert Model Performance Graph here)*  
-- 🌐 **Geographic Scope**: Includes analysis across multiple countries and regions  
-- 💡 **Open Source**: Final project and codebase will be released to the public
+- 🧹 **Data Cleaning & Preprocessing**: Transforming raw traffic and driver data into a clean, usable format  
+- 📊 **Visualization**: Creating insightful charts to reveal accident patterns based on traffic density, speed limits, driver age, and experience  
+- 🔮 **Predictive Modeling**: Building ML models to forecast accident risk based on traffic and driver attributes   
+- 🌐 **Multi-factor Analysis**: Combining multiple features to understand their combined impact on accidents  
+- 💡 **Open Source**: Project and code will be publicly available after completion
 
 ---
 
@@ -50,17 +47,24 @@ This project leverages machine learning to analyze patterns in road traffic acci
 
 - **Source**: Kaggle  
 - **Type**: Secondary Dataset  
-- **Contents**: Road accident data including time, location, number of vehicles, driver demographics, and accident outcomes
+- **Features**:  
+  - Traffic Density  
+  - Speed Limit  
+  - Number of Vehicles  
+  - Driver Age  
+  - Driver Experience  
+  - Accident occurrence (target variable)
 
 ---
 
 ## 📌 Future Work
 
-- Integrate additional datasets (e.g., weather, road conditions)
-- Improve prediction accuracy through advanced ensemble models
-- Deploy a public dashboard or web app for live exploration of results
+- Incorporate additional data such as weather conditions and road types  
+- Experiment with ensemble and deep learning models for improved accuracy  
+- Develop an interactive dashboard to visualize accident risk in real time  
 
 ---
+
 
 ## 🚀 How to Run the Project
 
