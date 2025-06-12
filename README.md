@@ -71,14 +71,21 @@ This project can be run using **Google Colab** without any local setup.
 
 ## 📷 Visual Outputs 
 
-### 📈 Performance Comparison Graph  
-![Performance Comparison Graph](path/to/performance_graph.png)
+### Random Forest  
+- Confusion Matrix  
+  ![Random Forest Confusion Matrix](path/to/random_forest_confusion_matrix.png)  
+- ROC Curve  
+  ![Random Forest ROC Curve](path/to/random_forest_roc_curve.png)  
 
-### 📉 Confusion Matrix for Models  
-![Confusion Matrix](path/to/confusion_matrix.png)
+### Logistic Regression  
+- Confusion Matrix  
+  ![Logistic Regression Confusion Matrix](path/to/logistic_regression_confusion_matrix.png)  
+- ROC Curve  
+  ![Logistic Regression ROC Curve](path/to/logistic_regression_roc_curve.png)  
 
-### 🗺️ Heatmap or Geographic Accident Visualization  
-![Accident Heatmap](path/to/accident_heatmap.png)
+### Support Vector Machine (SVM)  
+- Confusion Matrix  
+  ![SVM Confusion Matrix](path/to/svm_confusion_matrix.png)  
 
 ---
 
