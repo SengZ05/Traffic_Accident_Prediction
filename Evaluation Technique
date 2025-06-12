@@ -1,0 +1,11 @@
+Data Preprocessing: Missing values were handled using median (for numerical) and mode (for categorical) imputation. Outliers were capped using the interquartile range (IQR) method.
+
+Feature Scaling: StandardScaler was applied to scale the feature values to zero mean and unit variance, important for models like Logistic Regression and SVM.
+
+Data Balancing: SMOTE (Synthetic Minority Oversampling Technique) was used on the training set to address class imbalance by synthetically generating minority class samples.
+
+Train-Test Split: Data was split into 80% training and 20% testing sets with stratification on the target variable.
+
+Hyperparameter Tuning: GridSearchCV with 5-fold cross-validation optimized hyperparameters of the Random Forest model using weighted F1-score to account for class imbalance.
+
+Metrics: Models were evaluated using accuracy, precision, recall, F1-score, confusion matrix, and ROC-AUC (where applicable).
