@@ -1,0 +1,11 @@
+This project demonstrated that combining classical ML models with proper preprocessing and data balancing techniques significantly improves prediction accuracy in traffic accident severity classification.
+
+Random Forest performed best due to its ensemble nature and ability to handle feature interactions.
+
+Logistic Regression offered quick baseline results with interpretability but lower accuracy.
+
+SVM provided competitive performance, particularly in capturing complex decision boundaries.
+
+The use of SMOTE effectively mitigated class imbalance, which is crucial in accident datasets with skewed severity distributions.
+
+Future work will explore more complex ensemble models and neural networks, integrate additional features such as weather and road conditions, and deploy interactive dashboards for real-time accident risk assessment.
